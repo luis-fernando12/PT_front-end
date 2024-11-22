@@ -1,0 +1,26 @@
+body{
+    /* background-image: url(./Projeto/bg-mobile.jpg) ;
+    background-repeat: no-repeat;
+    background-position: top center ;
+    background-size: cover; */
+    
+    background: url(./Projeto/bg-mobile.jpg) no-repeat top center/cover ; 
+
+}
+h1{
+    color: aliceblue;
+}
+
+#container {
+    width: 360px;
+    height: 720px;
+    border: 2px solid;
+    margin: auto;
+    
+
+}
+
+#profile img {
+    width: 112px;
+    padding-left: 120px;
+}
